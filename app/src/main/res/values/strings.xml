@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Deep Neural Fridge Analyzer</string>
+    <string name="title_activity_result">Erkannte Lebensmittel</string>
+    <string name="title_activity_settings">Einstellungen</string>
+    <string name="title_activity_shoppinglist">Einkaufsliste</string>
+    <string name="title_recipe">Rezeptvorschlag</string>
+    <string-array name="settings_sensitivity_values">
+        <item>20</item>
+        <item>40</item>
+        <item>50</item>
+        <item>60</item>
+        <item>80</item>
+    </string-array>
+    <string-array name="empty_array" />
+    <string name="main_delete_image_confirm">Bist du sicher, dass das Bild gelöscht werden soll?</string>
+    <string name="main_delete_image_confirm_title">Bild löschen</string>
+    <string name="main_delete_image_success">Das Bild wurde erfolgreich gelöscht.</string>
+    <string name="main_take_image_error">Es konnte kein Foto aufgenommen werden.</string>
+    <string name="main_loading_message">Objekterkennung wird durchgeführt. Bitte warten…</string>
+    <string name="title_activity_recipe_generator">Rezepte</string>
+    <string name="recipe_load">Rezepte werden geladen…</string>
+    <string name="recipe_load_error">Es konnte kein Rezept geladen werden. Bitte versuche es später noch einmal.</string>
+    <string name="settings_shoppinglist">
+        Lege fest, welche Lebensmittel du immer in deinem Kühlschrank haben möchtest.
+        Alle Lebensmittel, welche du nicht mehr im Kühlschrank hast werden automatisch zur Einkaufsliste hinzugefügt.
+    </string>
+    <string name="settings_modelswitch">
+        Wähle diese Option aus, wenn du Probleme mit der Geschwindigkeit der App oder Crashes hast.
+        Achtung: Mögliche Einbussungen in der Genauigkeit.
+    </string>
+    <string name="settings_sensitivity">
+        Standardmässige Sensitivität bei der Erkennung.
+        Achtung: Eine höhere Sensitivität kann zu Einbussungen in der Genauigkeit führen.
+    </string>
+    <string name="settings_modelswitch_title">Kompatibilitätsmodus</string>
+    <string name="menu_demo">Demo</string>
+    <string name="menu_settings">Einstellungen</string>
+    <string name="menu_shopping_list">Einkaufsliste</string>
+    <string name="menu_recipe_generator">Rezeptsuche</string>
+    <string name="confirm_yes">Ja</string>
+    <string name="confirm_no">Nein</string>
+    <string name="shoppinglist_title_add_item">Produkt hinzufügen</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="shoppinglist_add_item">Was möchtest du zur Einkaufsliste hinzufügen?</string>
+    <string name="shoppinglist_add_item_confirm">Hinzufügen</string>
+    <string name="recipe_no_ingredients_selected">Es wurden keine Zutaten ausgewählt.</string>
+    <string name="recipe_ingredients">Rezeptzutaten</string>
+    <string name="ok">OK</string>
+    <string name="recipe_ingredients_clear_all">Löschen</string>
+    <string name="recipedetails_load_error">Das Rezept konnte nicht geladen werden. Bitte versuches später noch einmal…</string>
+    <string name="settings_shoppinglist_title">Präferenzen Einkaufsliste</string>
+    <string name="compatbility_mode">(Kompatibilitätsmodus)</string>
+</resources>

@@ -1,0 +1,3 @@
+/build
+assets/*.pb
+assets/*.tflite

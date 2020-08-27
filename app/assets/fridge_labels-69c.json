@@ -1,0 +1,418 @@
+{
+  "labels": [
+    {
+      "id": 1,
+      "name": "alcohol",
+      "english": "Alcohol",
+      "german": "Alkohol"
+    },
+    {
+      "id": 2,
+      "name": "apple",
+      "english": "Apple",
+      "german": "Apfel"
+    },
+    {
+      "id": 3,
+      "name": "asparagus",
+      "english": "Asparagus",
+      "german": "Spargeln"
+    },
+    {
+      "id": 4,
+      "name": "avocado",
+      "english": "Avocado",
+      "german": "Avocado"
+    },
+    {
+      "id": 5,
+      "name": "bananas",
+      "english": "Bananas",
+      "german": "Bananen"
+    },
+    {
+      "id": 6,
+      "name": "beer",
+      "english": "Beer",
+      "german": "Bier"
+    },
+    {
+      "id": 7,
+      "name": "beet",
+      "english": "Beet",
+      "german": "Rote Beete"
+    },
+    {
+      "id": 8,
+      "name": "broccoli",
+      "english": "Broccoli",
+      "german": "Brokkoli"
+    },
+    {
+      "id": 9,
+      "name": "butter",
+      "english": "Butter",
+      "german": "Butter"
+    },
+    {
+      "id": 10,
+      "name": "carrots",
+      "english": "Carrots",
+      "german": "Karotten"
+    },
+    {
+      "id": 11,
+      "name": "cauliflower",
+      "english": "Cauliflower",
+      "german": "Blumenkohl"
+    },
+    {
+      "id": 12,
+      "name": "cheese",
+      "english": "Cheese",
+      "german": "Käse"
+    },
+    {
+      "id": 13,
+      "name": "chili",
+      "english": "Chili",
+      "german": "Chili"
+    },
+    {
+      "id": 14,
+      "name": "chili_sauce",
+      "english": "Chili Sauce",
+      "german": "Chilisauce"
+    },
+    {
+      "id": 15,
+      "name": "chocolate",
+      "english": "Chocolate",
+      "german": "Schokolade"
+    },
+    {
+      "id": 16,
+      "name": "cocos_milk",
+      "english": "Cocos Milk",
+      "german": "Kokosmilch"
+    },
+    {
+      "id": 17,
+      "name": "cold_meat",
+      "english": "Cold Meat",
+      "german": "Fleischaufschnitt"
+    },
+    {
+      "id": 18,
+      "name": "corn",
+      "english": "Corn",
+      "german": "Mais"
+    },
+    {
+      "id": 19,
+      "name": "cottage_cheese",
+      "english": "Cottage Cheese",
+      "german": "Hüttenkäse"
+    },
+    {
+      "id": 20,
+      "name": "cream",
+      "english": "Cream",
+      "german": "Rahm"
+    },
+    {
+      "id": 21,
+      "name": "creme_fraiche",
+      "english": "Creme Fraiche",
+      "german": "Creme Fraiche"
+    },
+    {
+      "id": 22,
+      "name": "cucumber",
+      "english": "Cucumber",
+      "german": "Gurke"
+    },
+    {
+      "id": 23,
+      "name": "curry_paste",
+      "english": "Curry Paste",
+      "german": "Currypaste"
+    },
+    {
+      "id": 24,
+      "name": "dough",
+      "english": "Dough",
+      "german": "Teig"
+    },
+    {
+      "id": 25,
+      "name": "eggplant",
+      "english": "Eggplant",
+      "german": "Aubergine"
+    },
+    {
+      "id": 26,
+      "name": "eggs",
+      "english": "Eggs",
+      "german": "Eier"
+    },
+    {
+      "id": 27,
+      "name": "fennel",
+      "english": "Fennel",
+      "german": "Fenchel"
+    },
+    {
+      "id": 28,
+      "name": "feta",
+      "english": "Feta",
+      "german": "Feta"
+    },
+    {
+      "id": 29,
+      "name": "fruits",
+      "english": "Fruits",
+      "german": "Früchte"
+    },
+    {
+      "id": 30,
+      "name": "garlic",
+      "english": "Garlic",
+      "german": "Knoblauch"
+    },
+    {
+      "id": 31,
+      "name": "ginger",
+      "english": "Ginger",
+      "german": "Ingwer"
+    },
+    {
+      "id": 32,
+      "name": "juice",
+      "english": "Juice",
+      "german": "Fruchtsaft"
+    },
+    {
+      "id": 33,
+      "name": "ketchup",
+      "english": "Ketchup",
+      "german": "Ketchup"
+    },
+    {
+      "id": 34,
+      "name": "leeks",
+      "english": "Leeks",
+      "german": "Lauch"
+    },
+    {
+      "id": 35,
+      "name": "lemon",
+      "english": "Lemon",
+      "german": "Zitrone"
+    },
+    {
+      "id": 36,
+      "name": "lemon_juice",
+      "english": "Lemon Juice",
+      "german": "Zitronensaft"
+    },
+    {
+      "id": 37,
+      "name": "lettuce",
+      "english": "Lettuce",
+      "german": "Salat"
+    },
+    {
+      "id": 38,
+      "name": "maple_sirup",
+      "english": "Maple Sirup",
+      "german": "Ahornsirup"
+    },
+    {
+      "id": 39,
+      "name": "marmalade",
+      "english": "Marmalade",
+      "german": "Konfitüre"
+    },
+    {
+      "id": 40,
+      "name": "mayonnaise",
+      "english": "Mayonnaise",
+      "german": "Mayonnaise"
+    },
+    {
+      "id": 41,
+      "name": "meat",
+      "english": "Meat",
+      "german": "Fleisch"
+    },
+    {
+      "id": 42,
+      "name": "milk",
+      "english": "Milk",
+      "german": "Milch"
+    },
+    {
+      "id": 43,
+      "name": "milk_drink",
+      "english": "Milk Drink",
+      "german": "Milchmischgetränk"
+    },
+    {
+      "id": 44,
+      "name": "mozzarella",
+      "english": "Mozzarella",
+      "german": "Mozarella"
+    },
+    {
+      "id": 45,
+      "name": "mushrooms",
+      "english": "Mushrooms",
+      "german": "Pilze"
+    },
+    {
+      "id": 46,
+      "name": "mustard",
+      "english": "Mustard",
+      "german": "Senf"
+    },
+    {
+      "id": 47,
+      "name": "olives",
+      "english": "Olives",
+      "german": "Oliven"
+    },
+    {
+      "id": 48,
+      "name": "onions",
+      "english": "Onions",
+      "german": "Zwiebeln"
+    },
+    {
+      "id": 49,
+      "name": "oranges",
+      "english": "Oranges",
+      "german": "Orangen"
+    },
+    {
+      "id": 50,
+      "name": "pasta",
+      "english": "Pasta",
+      "german": "Teigwaren"
+    },
+    {
+      "id": 51,
+      "name": "peas",
+      "english": "Peas",
+      "german": "Erbsen"
+    },
+    {
+      "id": 52,
+      "name": "pepper",
+      "english": "Pepper",
+      "german": "Paprika"
+    },
+    {
+      "id": 53,
+      "name": "pesto",
+      "english": "Pesto",
+      "german": "Pesto"
+    },
+    {
+      "id": 54,
+      "name": "pickles",
+      "english": "Pickles",
+      "german": "Essiggurken"
+    },
+    {
+      "id": 55,
+      "name": "potatoes",
+      "english": "Potatoes",
+      "german": "Kartoffeln"
+    },
+    {
+      "id": 56,
+      "name": "quark",
+      "english": "Quark",
+      "german": "Quark"
+    },
+    {
+      "id": 57,
+      "name": "radish",
+      "english": "Radish",
+      "german": "Radieschen"
+    },
+    {
+      "id": 58,
+      "name": "salad_sauce",
+      "english": "Salad Sauce",
+      "german": "Salatsauce"
+    },
+    {
+      "id": 59,
+      "name": "sauce",
+      "english": "Sauce",
+      "german": "Sauce"
+    },
+    {
+      "id": 60,
+      "name": "sausage",
+      "english": "Sausage",
+      "german": "Wurst"
+    },
+    {
+      "id": 61,
+      "name": "silverskin_onions",
+      "english": "Silverskin Onions",
+      "german": "Silberzwiebeln"
+    },
+    {
+      "id": 62,
+      "name": "soda",
+      "english": "Soda",
+      "german": "Soda"
+    },
+    {
+      "id": 63,
+      "name": "soja_sauce",
+      "english": "Soja Sauce",
+      "german": "Sojasauce"
+    },
+    {
+      "id": 64,
+      "name": "spread",
+      "english": "Spread",
+      "german": "Aufstrich"
+    },
+    {
+      "id": 65,
+      "name": "tomato_paste",
+      "english": "Tomato Paste",
+      "german": "Tomatenmark"
+    },
+    {
+      "id": 66,
+      "name": "tomatoes",
+      "english": "Tomatoes",
+      "german": "Tomaten"
+    },
+    {
+      "id": 67,
+      "name": "wine",
+      "english": "Wine",
+      "german": "Wein"
+    },
+    {
+      "id": 68,
+      "name": "yogurt",
+      "english": "Yogurt",
+      "german": "Joghurt"
+    },
+    {
+      "id": 69,
+      "name": "zucchini",
+      "english": "Zucchini",
+      "german": "Zucchini"
+    }
+  ]
+}

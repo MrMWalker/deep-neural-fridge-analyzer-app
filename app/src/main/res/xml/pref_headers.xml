@@ -1,0 +1,16 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <MultiSelectListPreference
+        android:dialogTitle="@string/settings_shoppinglist_title"
+        android:key="pref_shoppinglist"
+        android:summary="@string/settings_shoppinglist"
+        android:title="@string/settings_shoppinglist_title"
+        android:defaultValue="@array/empty_array"
+        />
+
+    <SwitchPreference
+        android:defaultValue="false"
+        android:key="model_switch"
+        android:summary="@string/settings_modelswitch"
+        android:title="@string/settings_modelswitch_title" />
+
+</PreferenceScreen>
